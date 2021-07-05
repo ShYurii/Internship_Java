@@ -1,0 +1,5 @@
+select account.account_id, customer.fed_id, product.name
+from account, customer, product
+where customer.cust_type_cd='I'
+and customer.cust_id=account.cust_id
+and account.product_cd=product.product_cd

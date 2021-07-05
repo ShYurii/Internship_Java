@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Task3</OriginalElement>
+  <nodes>
+    <node x="5064.064744776828" y="304.0">Task3.Subject_3</node>
+    <node x="3945.9460743114896" y="894.0">Task3.Cathedra</node>
+    <node x="2836.4649477682797" y="0.0">Task3.Curator</node>
+    <node x="854.5286704653363" y="0.0">Task3.Student</node>
+    <node x="5146.564744776828" y="1521.0">Task3.University</node>
+    <node x="2630.5" y="827.0">Task3.Group_2</node>
+    <node x="2335.5" y="827.0">Task3.Group_3</node>
+    <node x="3972.4333713200367" y="1256.0">Task3.Cathedra_1</node>
+    <node x="3226.9333713200367" y="1256.0">Task3.Cathedra_2</node>
+    <node x="2096.5" y="827.0">Task3.Group_1</node>
+    <node x="2994.9333713200367" y="1256.0">Task3.Cathedra_3</node>
+    <node x="4307.989744776827" y="337.5">Task3.Lecturer</node>
+    <node x="2133.5274477682797" y="11.5">Task3.Specialisation</node>
+    <node x="1735.5000000000002" y="315.0">Task3.Specialisation_3</node>
+    <node x="1489.5000000000002" y="315.0">Task3.Specialisation_2</node>
+    <node x="1969.5000000000002" y="315.0">Task3.Specialisation_1</node>
+    <node x="2955.6524477682797" y="316.0">Task3.Group</node>
+    <node x="516.5" y="304.0">Task3.Student_6</node>
+    <node x="284.5" y="304.0">Task3.Student_5</node>
+    <node x="980.5" y="304.0">Task3.Student_4</node>
+    <node x="748.5" y="304.0">Task3.Student_3</node>
+    <node x="3344.4333713200367" y="1532.0">Task3.Faculty_1</node>
+    <node x="52.5" y="304.0">Task3.Student_2</node>
+    <node x="3576.4333713200367" y="1532.0">Task3.Faculty_2</node>
+    <node x="1212.5000000000002" y="304.0">Task3.Student_1</node>
+    <node x="5308.064744776828" y="849.0">Task3.Lecturer_2</node>
+    <node x="3210.6524477682797" y="304.0">Task3.Curator_1</node>
+    <node x="4450.564744776828" y="849.0">Task3.Lecturer_1</node>
+    <node x="3686.6524477682797" y="304.0">Task3.Curator_2</node>
+    <node x="3454.6524477682797" y="304.0">Task3.Curator_3</node>
+    <node x="4694.564744776828" y="849.0">Task3.Lecturer_3</node>
+    <node x="4578.010819088317" y="0.5">Task3.Subject</node>
+    <node x="3754.4333713200367" y="1312.0">Task3.Faculty</node>
+    <node x="4588.064744776828" y="304.0">Task3.Subject_1</node>
+    <node x="4832.064744776828" y="304.0">Task3.Subject_2</node>
+    <node x="3808.4333713200367" y="1532.0">Task3.Faculty_3</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Task3.Cathedra" target="Task3.Group">
+      <point x="-38.75" y="-47.5" />
+      <point x="3984.6960743114896" y="677.0" />
+      <point x="3159.9024477682797" y="677.0" />
+      <point x="96.75" y="69.5" />
+    </edge>
+    <edge source="Task3.Specialisation_2" target="Task3.Specialisation">
+      <point x="0.0" y="-70.5" />
+      <point x="1586.5000000000002" y="194.0" />
+      <point x="2166.7774477682797" y="194.0" />
+      <point x="-33.25" y="25.5" />
+    </edge>
+    <edge source="Task3.Lecturer_2" target="Task3.Subject">
+      <point x="0.0" y="-92.5" />
+      <point x="5404.064744776828" y="214.0" />
+      <point x="4700.510819088317" y="214.0" />
+      <point x="56.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Curator_1" target="Task3.Curator_1">
+      <point x="0.0" y="81.5" />
+      <point x="3306.6524477682797" y="487.0" />
+      <point x="3190.6524477682797" y="487.0" />
+      <point x="3190.6524477682797" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Lecturer_2" target="Task3.Lecturer_2">
+      <point x="0.0" y="92.5" />
+      <point x="5404.064744776828" y="1054.0" />
+      <point x="5288.064744776828" y="1054.0" />
+      <point x="5288.064744776828" y="941.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Subject_1" target="Task3.Subject_1">
+      <point x="0.0" y="81.5" />
+      <point x="4684.064744776828" y="487.0" />
+      <point x="4568.064744776828" y="487.0" />
+      <point x="4568.064744776828" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Cathedra_2" target="Task3.Cathedra">
+      <point x="76.80000000000018" y="-92.5" />
+      <point x="3399.733371320037" y="1156.0" />
+      <point x="3969.1960743114896" y="1156.0" />
+      <point x="-54.25" y="47.5" />
+    </edge>
+    <edge source="Task3.Group_2" target="Task3.Subject">
+      <point x="88.44444444444434" y="-114.5" />
+      <point x="2818.4444444444443" y="757.0" />
+      <point x="3936.1524477682797" y="757.0" />
+      <point x="3936.1524477682797" y="254.0" />
+      <point x="4623.510819088317" y="254.0" />
+      <point x="-21.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Lecturer_2" target="Task3.Lecturer">
+      <point x="-64.0" y="-92.5" />
+      <point x="5340.064744776828" y="767.0" />
+      <point x="4449.539744776827" y="767.0" />
+      <point x="67.05000000000018" y="48.0" />
+    </edge>
+    <edge source="Task3.Student_3" target="Task3.Student_3">
+      <point x="0.0" y="81.5" />
+      <point x="844.5" y="487.0" />
+      <point x="728.5" y="487.0" />
+      <point x="728.5" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Cathedra_3" target="Task3.Cathedra_3">
+      <point x="0.0" y="92.5" />
+      <point x="3090.9333713200367" y="1461.0" />
+      <point x="2974.9333713200367" y="1461.0" />
+      <point x="2974.9333713200367" y="1348.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Group_2" target="Task3.Group_2">
+      <point x="0.0" y="114.5" />
+      <point x="2730.0" y="1076.0" />
+      <point x="2610.5" y="1076.0" />
+      <point x="2610.5" y="941.5" />
+      <point x="-99.5" y="-0.0" />
+    </edge>
+    <edge source="Task3.Faculty_1" target="Task3.Cathedra">
+      <point x="-64.0" y="-81.5" />
+      <point x="3376.4333713200367" y="1501.0" />
+      <point x="3429.4333713200367" y="1501.0" />
+      <point x="3429.4333713200367" y="1166.0" />
+      <point x="3984.6960743114896" y="1166.0" />
+      <point x="-38.75" y="47.5" />
+    </edge>
+    <edge source="Task3.Group" target="Task3.Subject">
+      <point x="80.625" y="-69.5" />
+      <point x="3143.7774477682797" y="194.0" />
+      <point x="4581.510819088317" y="194.0" />
+      <point x="-63.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Group_2" target="Task3.Curator">
+      <point x="44.22222222222217" y="-114.5" />
+      <point x="2774.2222222222226" y="697.0" />
+      <point x="3424.1524477682797" y="697.0" />
+      <point x="3424.1524477682797" y="114.0" />
+      <point x="2952.7149477682797" y="114.0" />
+      <point x="38.75" y="37.0" />
+    </edge>
+    <edge source="Task3.Subject_2" target="Task3.Subject">
+      <point x="0.0" y="-81.5" />
+      <point x="4928.064744776828" y="254.0" />
+      <point x="4672.510819088317" y="254.0" />
+      <point x="28.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Cathedra_2" target="Task3.Group">
+      <point x="-38.40000000000009" y="-92.5" />
+      <point x="3284.533371320037" y="1116.0" />
+      <point x="2578.0" y="1116.0" />
+      <point x="2578.0" y="647.0" />
+      <point x="3073.9024477682797" y="647.0" />
+      <point x="10.75" y="69.5" />
+    </edge>
+    <edge source="Task3.Curator_1" target="Task3.Curator">
+      <point x="0.0" y="-81.5" />
+      <point x="3306.6524477682797" y="134.0" />
+      <point x="2921.7149477682797" y="134.0" />
+      <point x="7.75" y="37.0" />
+    </edge>
+    <edge source="Task3.Group_3" target="Task3.Group">
+      <point x="44.22222222222217" y="-114.5" />
+      <point x="2479.2222222222226" y="607.0" />
+      <point x="2987.9024477682797" y="607.0" />
+      <point x="-75.25" y="69.5" />
+    </edge>
+    <edge source="Task3.Student_1" target="Task3.Student">
+      <point x="0.0" y="-81.5" />
+      <point x="1308.5000000000002" y="274.0" />
+      <point x="949.9902089268749" y="274.0" />
+      <point x="22.461538461538453" y="37.0" />
+    </edge>
+    <edge source="Task3.Faculty_1" target="Task3.Faculty_1">
+      <point x="0.0" y="81.5" />
+      <point x="3440.4333713200367" y="1715.0" />
+      <point x="3324.4333713200367" y="1715.0" />
+      <point x="3324.4333713200367" y="1613.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Student_5" target="Task3.Student">
+      <point x="0.0" y="-81.5" />
+      <point x="380.5" y="264.0" />
+      <point x="905.0671320037977" y="264.0" />
+      <point x="-22.461538461538453" y="37.0" />
+    </edge>
+    <edge source="Task3.Faculty_1" target="Task3.Faculty">
+      <point x="64.0" y="-81.5" />
+      <point x="3504.4333713200367" y="1491.0" />
+      <point x="3771.033371320037" y="1491.0" />
+      <point x="-66.40000000000009" y="36.5" />
+    </edge>
+    <edge source="Task3.Lecturer_1" target="Task3.Subject">
+      <point x="0.0" y="-92.5" />
+      <point x="4546.564744776828" y="274.0" />
+      <point x="4637.510819088317" y="274.0" />
+      <point x="-7.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Specialisation_1" target="Task3.Specialisation">
+      <point x="0.0" y="-70.5" />
+      <point x="2066.5" y="234.0" />
+      <point x="2219.9774477682795" y="234.0" />
+      <point x="19.949999999999818" y="25.5" />
+    </edge>
+    <edge source="Task3.Curator_2" target="Task3.Curator_2">
+      <point x="0.0" y="81.5" />
+      <point x="3782.6524477682797" y="487.0" />
+      <point x="3666.6524477682797" y="487.0" />
+      <point x="3666.6524477682797" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Lecturer_1" target="Task3.Lecturer_1">
+      <point x="0.0" y="92.5" />
+      <point x="4546.564744776828" y="1054.0" />
+      <point x="4430.564744776828" y="1054.0" />
+      <point x="4430.564744776828" y="941.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Group_3" target="Task3.Specialisation">
+      <point x="-44.22222222222217" y="-114.5" />
+      <point x="2390.7777777777783" y="557.0" />
+      <point x="1694.0000000000002" y="557.0" />
+      <point x="1694.0000000000002" y="204.0" />
+      <point x="2180.07744776828" y="204.0" />
+      <point x="-19.949999999999818" y="25.5" />
+    </edge>
+    <edge source="Task3.Subject_2" target="Task3.Subject_2">
+      <point x="0.0" y="81.5" />
+      <point x="4928.064744776828" y="487.0" />
+      <point x="4812.064744776828" y="487.0" />
+      <point x="4812.064744776828" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Specialisation_3" target="Task3.Specialisation_3">
+      <point x="0.0" y="70.5" />
+      <point x="1832.5000000000002" y="476.0" />
+      <point x="1715.5000000000002" y="476.0" />
+      <point x="1715.5000000000002" y="385.5" />
+      <point x="-97.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Group_1" target="Task3.Subject">
+      <point x="88.44444444444434" y="-114.5" />
+      <point x="2284.4444444444443" y="717.0" />
+      <point x="3900.1524477682797" y="717.0" />
+      <point x="3900.1524477682797" y="214.0" />
+      <point x="4595.510819088317" y="214.0" />
+      <point x="-49.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Cathedra_1" target="Task3.Cathedra">
+      <point x="0.0" y="-92.5" />
+      <point x="4068.4333713200367" y="1236.0" />
+      <point x="4093.1960743114896" y="1236.0" />
+      <point x="69.75" y="47.5" />
+    </edge>
+    <edge source="Task3.Student_2" target="Task3.Student_2">
+      <point x="0.0" y="81.5" />
+      <point x="148.5" y="487.0" />
+      <point x="32.5" y="487.0" />
+      <point x="32.5" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Student_6" target="Task3.Student_6">
+      <point x="0.0" y="81.5" />
+      <point x="612.5" y="487.0" />
+      <point x="496.5" y="487.0" />
+      <point x="496.5" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Lecturer_1" target="Task3.Lecturer">
+      <point x="-64.0" y="-92.5" />
+      <point x="4482.564744776828" y="787.0" />
+      <point x="4419.739744776827" y="787.0" />
+      <point x="37.25" y="48.0" />
+    </edge>
+    <edge source="Task3.Group_3" target="Task3.Group_3">
+      <point x="0.0" y="114.5" />
+      <point x="2435.0" y="1076.0" />
+      <point x="2315.5" y="1076.0" />
+      <point x="2315.5" y="941.5" />
+      <point x="-99.5" y="-0.0" />
+    </edge>
+    <edge source="Task3.Cathedra_3" target="Task3.Group">
+      <point x="-38.40000000000009" y="-92.5" />
+      <point x="3052.533371320037" y="1226.0" />
+      <point x="2556.0" y="1226.0" />
+      <point x="2556.0" y="627.0" />
+      <point x="3030.9024477682797" y="627.0" />
+      <point x="-32.25" y="69.5" />
+    </edge>
+    <edge source="Task3.Group_1" target="Task3.Curator">
+      <point x="22.111111111111313" y="-114.5" />
+      <point x="2218.1111111111113" y="587.0" />
+      <point x="2315.5" y="587.0" />
+      <point x="2315.5" y="274.0" />
+      <point x="2859.7149477682797" y="274.0" />
+      <point x="-54.25" y="37.0" />
+    </edge>
+    <edge source="Task3.Faculty_2" target="Task3.Cathedra">
+      <point x="-64.0" y="-81.5" />
+      <point x="3608.4333713200367" y="1481.0" />
+      <point x="3630.3500000000004" y="1481.0" />
+      <point x="3630.3500000000004" y="1186.0" />
+      <point x="4015.6960743114896" y="1186.0" />
+      <point x="-7.75" y="47.5" />
+    </edge>
+    <edge source="Task3.Curator_2" target="Task3.Curator">
+      <point x="0.0" y="-81.5" />
+      <point x="3782.6524477682797" y="94.0" />
+      <point x="2983.7149477682797" y="94.0" />
+      <point x="69.75" y="37.0" />
+    </edge>
+    <edge source="Task3.Subject_1" target="Task3.Subject">
+      <point x="0.0" y="-81.5" />
+      <point x="4684.064744776828" y="284.0" />
+      <point x="4651.510819088317" y="284.0" />
+      <point x="7.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Group_2" target="Task3.Group">
+      <point x="0.0" y="-114.5" />
+      <point x="2730.0" y="677.0" />
+      <point x="3138.4024477682797" y="677.0" />
+      <point x="75.25" y="69.5" />
+    </edge>
+    <edge source="Task3.Cathedra_1" target="Task3.Lecturer">
+      <point x="38.40000000000009" y="-92.5" />
+      <point x="4106.833371320037" y="1226.0" />
+      <point x="4409.064744776828" y="1226.0" />
+      <point x="4409.064744776828" y="807.0" />
+      <point x="4389.939744776827" y="807.0" />
+      <point x="7.449999999999818" y="48.0" />
+    </edge>
+    <edge source="Task3.Group_2" target="Task3.Specialisation">
+      <point x="-22.111111111111313" y="-114.5" />
+      <point x="2707.8888888888887" y="507.0" />
+      <point x="2185.0" y="507.0" />
+      <point x="2185.0" y="254.0" />
+      <point x="2246.57744776828" y="254.0" />
+      <point x="46.55000000000018" y="25.5" />
+    </edge>
+    <edge source="Task3.Group_1" target="Task3.Student">
+      <point x="-88.44444444444434" y="-114.5" />
+      <point x="2107.5555555555557" y="807.0" />
+      <point x="0.0" y="807.0" />
+      <point x="0.0" y="224.0" />
+      <point x="860.144055080721" y="224.0" />
+      <point x="-67.38461538461524" y="37.0" />
+    </edge>
+    <edge source="Task3.Faculty_2" target="Task3.Faculty">
+      <point x="64.0" y="-81.5" />
+      <point x="3736.4333713200367" y="1501.0" />
+      <point x="3804.233371320037" y="1501.0" />
+      <point x="-33.19999999999982" y="36.5" />
+    </edge>
+    <edge source="Task3.Student_4" target="Task3.Student">
+      <point x="0.0" y="-81.5" />
+      <point x="1076.5" y="284.0" />
+      <point x="938.7594396961058" y="284.0" />
+      <point x="11.230769230769283" y="37.0" />
+    </edge>
+    <edge source="Task3.Faculty_2" target="Task3.Faculty_2">
+      <point x="0.0" y="81.5" />
+      <point x="3672.4333713200367" y="1715.0" />
+      <point x="3556.4333713200367" y="1715.0" />
+      <point x="3556.4333713200367" y="1613.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Curator_3" target="Task3.Curator_3">
+      <point x="0.0" y="81.5" />
+      <point x="3550.6524477682797" y="487.0" />
+      <point x="3434.6524477682797" y="487.0" />
+      <point x="3434.6524477682797" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Subject_3" target="Task3.Subject_3">
+      <point x="0.0" y="81.5" />
+      <point x="5160.064744776828" y="487.0" />
+      <point x="5044.064744776828" y="487.0" />
+      <point x="5044.064744776828" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Specialisation_2" target="Task3.Specialisation_2">
+      <point x="0.0" y="70.5" />
+      <point x="1586.5000000000002" y="476.0" />
+      <point x="1469.5000000000002" y="476.0" />
+      <point x="1469.5000000000002" y="385.5" />
+      <point x="-97.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.University" target="Task3.University">
+      <point x="0.0" y="92.5" />
+      <point x="5242.564744776828" y="1726.0" />
+      <point x="5126.564744776828" y="1726.0" />
+      <point x="5126.564744776828" y="1613.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Student_1" target="Task3.Student_1">
+      <point x="0.0" y="81.5" />
+      <point x="1308.5000000000002" y="487.0" />
+      <point x="1192.5000000000002" y="487.0" />
+      <point x="1192.5000000000002" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Student_5" target="Task3.Student_5">
+      <point x="0.0" y="81.5" />
+      <point x="380.5" y="487.0" />
+      <point x="264.5" y="487.0" />
+      <point x="264.5" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Cathedra" target="Task3.Lecturer">
+      <point x="38.75" y="-47.5" />
+      <point x="4062.1960743114896" y="807.0" />
+      <point x="4375.039744776827" y="807.0" />
+      <point x="-7.449999999999818" y="48.0" />
+    </edge>
+    <edge source="Task3.Cathedra_1" target="Task3.Cathedra_1">
+      <point x="0.0" y="92.5" />
+      <point x="4068.4333713200367" y="1461.0" />
+      <point x="3952.4333713200367" y="1461.0" />
+      <point x="3952.4333713200367" y="1348.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Group" target="Task3.Specialisation">
+      <point x="-26.875" y="-69.5" />
+      <point x="3036.2774477682797" y="154.0" />
+      <point x="2259.87744776828" y="154.0" />
+      <point x="59.84999999999991" y="25.5" />
+    </edge>
+    <edge source="Task3.Faculty_3" target="Task3.Cathedra">
+      <point x="64.0" y="-81.5" />
+      <point x="3968.4333713200367" y="1501.0" />
+      <point x="3941.9333713200367" y="1501.0" />
+      <point x="3941.9333713200367" y="1226.0" />
+      <point x="4077.6960743114896" y="1226.0" />
+      <point x="54.25" y="47.5" />
+    </edge>
+    <edge source="Task3.Group_1" target="Task3.Group">
+      <point x="44.22222222222217" y="-114.5" />
+      <point x="2240.2222222222226" y="597.0" />
+      <point x="2966.4024477682797" y="597.0" />
+      <point x="-96.75" y="69.5" />
+    </edge>
+    <edge source="Task3.University" target="Task3.Faculty">
+      <point x="-24.0" y="-92.5" />
+      <point x="5218.564744776828" y="1481.0" />
+      <point x="3903.8333713200373" y="1481.0" />
+      <point x="66.40000000000009" y="36.5" />
+    </edge>
+    <edge source="Task3.Curator_3" target="Task3.Curator">
+      <point x="0.0" y="-81.5" />
+      <point x="3550.6524477682797" y="104.0" />
+      <point x="2968.2149477682797" y="104.0" />
+      <point x="54.25" y="37.0" />
+    </edge>
+    <edge source="Task3.Group_2" target="Task3.Student">
+      <point x="-88.44444444444434" y="-114.5" />
+      <point x="2641.5555555555557" y="537.0" />
+      <point x="1426.0000000000005" y="537.0" />
+      <point x="1426.0000000000005" y="254.0" />
+      <point x="972.4517473884134" y="254.0" />
+      <point x="44.92307692307713" y="37.0" />
+    </edge>
+    <edge source="Task3.Student_3" target="Task3.Student">
+      <point x="0.0" y="-81.5" />
+      <point x="844.5" y="284.0" />
+      <point x="927.5286704653363" y="284.0" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="Task3.Group_1" target="Task3.Specialisation">
+      <point x="-44.22222222222217" y="-114.5" />
+      <point x="2151.7777777777783" y="787.0" />
+      <point x="1448.0000000000002" y="787.0" />
+      <point x="1448.0000000000002" y="174.0" />
+      <point x="2140.17744776828" y="174.0" />
+      <point x="-59.84999999999991" y="25.5" />
+    </edge>
+    <edge source="Task3.Cathedra_2" target="Task3.Lecturer">
+      <point x="38.40000000000009" y="-92.5" />
+      <point x="3361.3333713200373" y="1136.0" />
+      <point x="3622.758371320037" y="1136.0" />
+      <point x="3622.758371320037" y="797.0" />
+      <point x="4360.139744776827" y="797.0" />
+      <point x="-22.350000000000364" y="48.0" />
+    </edge>
+    <edge source="Task3.Faculty_3" target="Task3.Faculty">
+      <point x="-64.0" y="-81.5" />
+      <point x="3840.4333713200367" y="1501.0" />
+      <point x="3837.4333713200367" y="1501.0" />
+      <point x="0.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Faculty" target="Task3.Cathedra">
+      <point x="0.0" y="-36.5" />
+      <point x="3837.4333713200367" y="1206.0" />
+      <point x="4046.6960743114896" y="1206.0" />
+      <point x="23.25" y="47.5" />
+    </edge>
+    <edge source="Task3.Lecturer" target="Task3.Subject">
+      <point x="0.0" y="-48.0" />
+      <point x="4382.489744776827" y="264.0" />
+      <point x="4630.510819088317" y="264.0" />
+      <point x="-14.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Faculty_3" target="Task3.Faculty_3">
+      <point x="0.0" y="81.5" />
+      <point x="3904.4333713200367" y="1715.0" />
+      <point x="3788.4333713200367" y="1715.0" />
+      <point x="3788.4333713200367" y="1613.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.University" target="Task3.Subject">
+      <point x="72.0" y="-92.5" />
+      <point x="5314.564744776828" y="1501.0" />
+      <point x="5277.564744776828" y="1501.0" />
+      <point x="5277.564744776828" y="224.0" />
+      <point x="4693.510819088317" y="224.0" />
+      <point x="49.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Specialisation_3" target="Task3.Specialisation">
+      <point x="0.0" y="-70.5" />
+      <point x="1832.5000000000002" y="224.0" />
+      <point x="2206.67744776828" y="224.0" />
+      <point x="6.650000000000091" y="25.5" />
+    </edge>
+    <edge source="Task3.Lecturer_3" target="Task3.Subject">
+      <point x="64.0" y="-92.5" />
+      <point x="4854.564744776828" y="807.0" />
+      <point x="4801.564744776828" y="807.0" />
+      <point x="4801.564744776828" y="264.0" />
+      <point x="4665.510819088317" y="264.0" />
+      <point x="21.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Lecturer_3" target="Task3.Lecturer_3">
+      <point x="0.0" y="92.5" />
+      <point x="4790.564744776828" y="1054.0" />
+      <point x="4674.564744776828" y="1054.0" />
+      <point x="4674.564744776828" y="941.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Group_3" target="Task3.Subject">
+      <point x="66.33333333333348" y="-114.5" />
+      <point x="2501.333333333334" y="727.0" />
+      <point x="3907.1524477682797" y="727.0" />
+      <point x="3907.1524477682797" y="224.0" />
+      <point x="4602.510819088317" y="224.0" />
+      <point x="-42.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Cathedra_3" target="Task3.Cathedra">
+      <point x="76.80000000000018" y="-92.5" />
+      <point x="3167.733371320037" y="1146.0" />
+      <point x="3953.6960743114896" y="1146.0" />
+      <point x="-69.75" y="47.5" />
+    </edge>
+    <edge source="Task3.Specialisation_1" target="Task3.Specialisation_1">
+      <point x="0.0" y="70.5" />
+      <point x="2066.5" y="476.0" />
+      <point x="1949.5000000000002" y="476.0" />
+      <point x="1949.5000000000002" y="385.5" />
+      <point x="-97.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Lecturer_3" target="Task3.Lecturer">
+      <point x="-64.0" y="-92.5" />
+      <point x="4726.564744776828" y="777.0" />
+      <point x="4434.639744776827" y="777.0" />
+      <point x="52.149999999999636" y="48.0" />
+    </edge>
+    <edge source="Task3.Student_4" target="Task3.Student_4">
+      <point x="0.0" y="81.5" />
+      <point x="1076.5" y="487.0" />
+      <point x="960.5" y="487.0" />
+      <point x="960.5" y="385.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Cathedra_2" target="Task3.Cathedra_2">
+      <point x="0.0" y="92.5" />
+      <point x="3322.9333713200367" y="1461.0" />
+      <point x="3206.9333713200367" y="1461.0" />
+      <point x="3206.9333713200367" y="1348.5" />
+      <point x="-96.0" y="-0.0" />
+    </edge>
+    <edge source="Task3.Group" target="Task3.Student">
+      <point x="-80.625" y="-69.5" />
+      <point x="2982.5274477682797" y="164.0" />
+      <point x="994.9132858499515" y="164.0" />
+      <point x="67.38461538461536" y="37.0" />
+    </edge>
+    <edge source="Task3.Group" target="Task3.Curator">
+      <point x="26.875" y="-69.5" />
+      <point x="3090.0274477682797" y="144.0" />
+      <point x="2906.2149477682797" y="144.0" />
+      <point x="-7.75" y="37.0" />
+    </edge>
+    <edge source="Task3.Group_1" target="Task3.Group_1">
+      <point x="0.0" y="114.5" />
+      <point x="2196.0" y="1076.0" />
+      <point x="2076.5" y="1076.0" />
+      <point x="2076.5" y="941.5" />
+      <point x="-99.5" y="-0.0" />
+    </edge>
+    <edge source="Task3.Cathedra_1" target="Task3.Group">
+      <point x="-76.80000000000018" y="-92.5" />
+      <point x="3991.6333713200365" y="1106.0" />
+      <point x="2589.0" y="1106.0" />
+      <point x="2589.0" y="657.0" />
+      <point x="3095.4024477682797" y="657.0" />
+      <point x="32.25" y="69.5" />
+    </edge>
+    <edge source="Task3.Group_3" target="Task3.Curator">
+      <point x="0.0" y="-114.5" />
+      <point x="2435.0" y="284.0" />
+      <point x="2875.2149477682797" y="284.0" />
+      <point x="-38.75" y="37.0" />
+    </edge>
+    <edge source="Task3.Subject_3" target="Task3.Subject">
+      <point x="0.0" y="-81.5" />
+      <point x="5160.064744776828" y="244.0" />
+      <point x="4679.510819088317" y="244.0" />
+      <point x="35.0" y="36.5" />
+    </edge>
+    <edge source="Task3.Student_2" target="Task3.Student">
+      <point x="0.0" y="-81.5" />
+      <point x="148.5" y="254.0" />
+      <point x="893.8363627730287" y="254.0" />
+      <point x="-33.692307692307736" y="37.0" />
+    </edge>
+    <edge source="Task3.Group_3" target="Task3.Student">
+      <point x="-66.33333333333348" y="-114.5" />
+      <point x="2368.666666666667" y="567.0" />
+      <point x="1415.0000000000005" y="567.0" />
+      <point x="1415.0000000000005" y="264.0" />
+      <point x="961.2209781576439" y="264.0" />
+      <point x="33.69230769230762" y="37.0" />
+    </edge>
+    <edge source="Task3.Cathedra_3" target="Task3.Lecturer">
+      <point x="0.0" y="-92.5" />
+      <point x="3090.9333713200367" y="1236.0" />
+      <point x="3104.6333713200365" y="1236.0" />
+      <point x="3104.6333713200365" y="767.0" />
+      <point x="4315.439744776827" y="767.0" />
+      <point x="-67.05000000000018" y="48.0" />
+    </edge>
+    <edge source="Task3.Student_6" target="Task3.Student">
+      <point x="0.0" y="-81.5" />
+      <point x="612.5" y="274.0" />
+      <point x="916.2979012345672" y="274.0" />
+      <point x="-11.23076923076917" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.31738173817381754" x="4006.455637292547" y="1012.4052075109562" />
+  <SelectedNodes>
+    <node>Task3.Subject_2</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

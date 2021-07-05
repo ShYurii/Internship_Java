@@ -1,0 +1,4 @@
+select account_id, cust_id, avail_balance
+from account
+where status='ACTIVE'
+or avail_balance > 1000
